@@ -1,0 +1,465 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=League+Gothic&family=Montserrat:wght@800&family=Noto+Sans+JP&family=Poppins:wght@400;600&family=Ubuntu+Mono:wght@400;700&display=swap');
+
+.Herosection{
+    position:absolute;
+    left:234px;
+    width:100%;
+    height: 1234px;
+    
+}
+
+.line1{
+    display:flex;
+    align-items: center;
+}
+
+.buttonheader{
+    margin-top:53px;
+    margin-left:83px;
+    font-family: poppins;
+    color:#4F4F4F;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.button1{
+     margin-top:28px;
+     margin-left:82px;
+}
+
+
+.phybutton1{
+    margin-top:12px;
+    width:81px;
+    height:36px;
+    color:#3F3F3F;
+    border:none;
+    border-radius: 6px;
+    box-shadow: 0px 2px 3px rgba(51, 51, 51, 0.2);
+    cursor:pointer;
+}
+
+.Button1text{
+    font-family:'Ubuntu Mono';
+    letter-spacing: 0.7px;
+    font-weight:400;
+    font-size:12px;
+    color:#333333;
+}
+
+
+.button2{
+    margin-top:28px;
+    margin-left:155px;
+
+}
+
+.phybutton2{
+            margin-top:12px;
+            width:81px;
+            height:36px;
+            background-color: #AEAEAE;
+            border:none;
+            border-radius: 6px;
+            cursor: pointer;
+
+}
+
+.button2text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+}
+
+
+.line2{
+    width:332px;
+    height:60px;
+    display:flex;
+    margin-left:82px;
+    margin-top:53px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.phybutton3{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    color:#3D5AFE;
+    border: 1px;
+    background-color: white;
+    border-radius:6px;
+    border:1px solid #3D5AFE
+
+}
+
+.button3text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#333333;
+}
+
+
+.phybutton4{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    border-radius: 6px;
+    color:#3D5AFE;
+    border:1px solid #3D5AFE;
+    background-color: #2962FF1A;
+    
+    
+
+
+}
+
+.button4text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+}
+
+.line3{
+    width:332px;
+    height:60px;
+    display:flex;
+    margin-left:82px;
+    margin-top:53px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.phybutton5{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    border-radius: 6px;
+    color:#3D5AFE;
+    border:none;
+    background-color: white;
+    font-weight:500;
+    font-size: 14px;
+    text-align: left;
+   
+}
+
+.button5text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#333333;
+    text-align: center;
+}
+
+.phybutton6{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    border-radius: 6px;
+    color:#3D5AFE;
+    border:none;
+    background-color: #2962FF1A;
+    /* margin-left:10px; */
+    
+}
+
+.button6text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+    text-align: center;
+}
+
+
+.button7{
+
+    margin-top:28px;
+     margin-left:82px;
+}
+
+.phybutton7{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    border-radius: 6px;
+    color:white;
+    background-color: #3D5AFE;
+    border:none;
+    /* margin-left:10px; */
+    
+}
+
+.button7text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#333333;
+    
+}
+
+.line5{
+    width:332px;
+    height:60px;
+    display:flex;
+    margin-left:82px;
+    margin-top:53px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.phybutton8{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    color:#9E9E9E;
+    border: 1px;
+    background-color: #E0E0E0;
+    border-radius:6px;
+    
+
+}
+
+.button8text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#333333;
+}
+
+
+.phybutton9{
+    width:81px;
+    height:36px;
+    margin-top:12px;
+    border-radius: 6px;
+    background-color: white;
+    border:none;
+    color:#9E9E9E;
+    text-align: left;
+
+    
+
+
+}
+
+.button9text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+    
+}
+
+
+.line6{
+    margin-left:82px;
+    margin-top:53px;
+    display:flex;
+    width:576px;
+    height:60px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.phybutton10{
+    width:105px;
+    height:36px;
+    background-color:#2962FF;
+    border:none;
+    color:white;
+    font-family: 'ubuntu mono';
+    font-size:14px;
+    font-weight:500;
+    line-height:14px;      
+    border-radius:6px; 
+    margin-top:12px;
+}
+
+.button10text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+
+}
+
+.phybutton11{
+    width:105px;
+    height:36px;
+    background-color:#2962FF;
+    border:none;
+    color:white;
+    font-family: 'ubuntu mono';
+    font-size:14px;
+    font-weight:500;
+    line-height:14px;      
+    border-radius:6px; 
+    margin-top:12px;
+}
+
+.button11text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+
+}
+.line7
+{
+    width:532px;
+    height:66px;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-left:82px;
+    margin-top:45px;
+}
+
+.phybutton12,.phybutton13,.phybutton14{
+   
+    border-radius: 6px;
+    background-color: #3D5AFE;
+    border:none;
+    color:white;
+   
+
+}
+.phybutton12{
+    margin-top:17px;
+    width:73px;
+    height:32px;
+}
+
+.phybutton13{
+    width:81px;
+    height:36px;
+    margin-top:15px;        
+}
+
+.phybutton14{
+    width:93px;
+    height:42px;
+    margin-top:12px;
+}
+
+.button12text,.button13text,.button14text{
+    font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+color: #000000;
+}
+
+.line8{
+    width:802px;
+    height:60px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;    
+    margin-left:82px;
+    margin-top:45px;
+}
+
+.phybutton15,.phybutton16,.phybutton18{
+    width:81px;
+    height:36px;
+}
+
+.phybutton17{
+    width:104px;
+    height:36px;
+}
+
+.phybutton15{
+    background-color: #E0E0E0;
+    border:none;
+    border-radius:6px;
+    font-weight:400;
+    font-family: 'noto sans JP';
+    margin-top:12px;
+
+}
+
+.phybutton16{
+    background-color: #2962FF;
+    color:white;
+    border:none;
+    border-radius:6px;
+    font-weight:400;
+    font-family: 'noto sans JP';
+    margin-top:12px;
+
+}
+
+.phybutton17{
+    background-color: #455A64;
+    color:white;
+    border:none;
+    border-radius:6px;
+    font-weight:400;
+    font-family: 'noto sans JP';
+    margin-top:12px;
+}
+
+.phybutton18{
+    background-color: #D32F2F;
+    color:white;
+    border:none;
+    border-radius:6px;
+    font-weight:400;
+    font-family: 'noto sans JP';
+    margin-top:12px;
+    
+}
+
+.button15text,.button16text,.button17text,.button18text{
+    font-family: 'Ubuntu Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+color: #000000;
+}
+
+
+.line9{
+    width:733px;
+    height:60px;
+    margin-top:53px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:82px;   
+}
+
+.button19text{
+    font-family: 'ubuntu Mono';
+    letter-spacing:0.5px;
+    font-weight: 400;
+    font-size:12px;
+    color:#828282;
+}
+
+.credits{
+    margin-left:50px;
+    margin-top:120px;
+    color:#AEAEAE;  
+}

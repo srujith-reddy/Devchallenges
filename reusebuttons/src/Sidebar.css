@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=League+Gothic&family=Montserrat:wght@800&family=Noto+Sans+JP&family=Poppins:wght@400;600&display=swap');
+
+.sidebar{
+    position: absolute;
+    width: 237px;
+    height: 1234px;
+    left: -8.5px;
+    top: -9.07px;
+    background: #FAFBFD;
+}
+
+.name{
+    cursor: pointer;
+    margin-top:47.07px;
+    margin-left:56.5px;
+}
+
+.comname{
+    
+    font-family: poppins;
+    font-size: 13px;
+    
+}
+
+.comname span{
+    color:#F7542E;
+}
+
+.sideattributes{
+    margin-top:189px;
+
+}
+
+.sideattributes li{
+    list-style-type: none;
+    padding:1rem; 
+    font-family: Noto Sans JP;  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color:#9E9E9E;
+
+}
+
+.sideattributes li a{
+    margin-left:2rem;
+    text-decoration: none;
+    color:#9E9E9E;
+
+
+}
